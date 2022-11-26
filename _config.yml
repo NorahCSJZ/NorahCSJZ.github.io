@@ -50,7 +50,7 @@ author:
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : https://www.douban.com/people/184799152
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : https://github.com/NorahCSJZ
+  github    : NorahCSJZ
       # "user_name" the last part of your profile url, e.g. 
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
